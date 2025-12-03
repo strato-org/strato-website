@@ -1534,6 +1534,16 @@ main p {
   margin-top: 3rem;
 }
 
+.person-content ul,
+.person-content ol {
+  margin-bottom: 1.25rem;
+  padding-left: 1.5rem;
+}
+
+.person-content li {
+  margin-bottom: 0.125rem;
+}
+
 /* Blog Featured Image */
 .blog-featured-image {
   margin-bottom: 2rem;
