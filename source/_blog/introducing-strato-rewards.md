@@ -7,7 +7,7 @@ img: "/images/strato.nexus/2025.12.08/rewards-page.png"
 categories: ["General"]
 ---
 
-The STRATO ecosystem just became even more rewarding. Whether you're lending, swapping, staking, or minting, every interaction you make on the platform now earns you **Reward Points**—giving you even more value for being an active contributor to the network.
+The STRATO ecosystem just became even more rewarding. Whether you're lending, swapping, or minting, every interaction you make on the platform now earns you **Reward Points**—giving you even more value for being an active contributor to the network.
 
 In this post, we'll explore how the Rewards Program works, how you can start earning today, and how to track and claim your rewards effortlessly.
 
