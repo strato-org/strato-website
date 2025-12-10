@@ -36,7 +36,7 @@ The history of [BlockApps](https://blockapps.net) and [STRATO](https://strato.ne
 
 The **Mercata Marketplace** project was [announced in November 2023](https://www.globenewswire.com/news-release/2023/11/30/2788271/0/en/BlockApps-Launches-Mercata-Marketplace-to-Pioneer-Access-to-Real-world-Assets-on-Web3.html) as a marketplace for RWAs on-chain, including carbon credits, precious metals, whiskey, art, sneakers, clothing, cards, figurines and NFTs.  Over time that marketplace application came to be called **STRATO Mercata**, on top of the **STRATO Platform** (the application platform built around the original Haskell client way back in 2015).
 
-We launched **STRATO Mercata V2** in [October 2025](/blog/announcing-v2-mainnet/), which was pretty much an entirely new product, with new focus on basic defi with crypto, stables and tokenized previous metals.
+We launched **STRATO Mercata V2** in [October 2025](/blog/announcing-v2-mainnet/), which was pretty much an entirely new product, with new focus on basic DeFi with crypto, stables and tokenized precious metals.
 
 Some people (including the author) have found the two-word naming to be confusing.  Is it **STRATO Mercato**?  **STRATA Mercata**?
 
