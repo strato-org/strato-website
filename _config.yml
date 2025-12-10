@@ -63,12 +63,13 @@ google_analytics: "G-HZMGT8Q60M"  # Google Analytics 4 tracking ID
 
 social:
   # LinkedIn company page username (used in linkedin:owner meta tag)
-  linkedin: "stratomercata"
+  linkedin: "strato-net"
   
   # Twitter/X account configuration
   twitter:
-    username: "stratomercata"  # Used for twitter:site and twitter:creator tags
-  
+    username: "strato_net"  # Used for twitter:site and twitter:creator tags
+  telegram:
+    username: "strato_net"  # Used for Telegram link generation
   # Social media profile links (used in Schema.org Organization structured data)
   # These appear in search results and help establish site authority
   links:
