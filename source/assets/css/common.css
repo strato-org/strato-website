@@ -2232,6 +2232,12 @@ article .blog-tags .tag {
     width: 50%;
     max-width: 50%;
   }
+  
+  .blog-embed-card.full-width-embed,
+  .content-embed-card.full-width-embed {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
 }
 /* Highlight boxes for important content */
 .highlight-yellow {
